@@ -8,7 +8,7 @@ Using this content as a starting point, build out epics and stories in Jira by c
 
 ## [Play 1: Understand what people need](https://playbook.cio.gov/#play1)
 Stories:
-* [The whole team needs a shared understanding of the project](/blob/master/play1/shared-understanding-project.md)
+* [The whole team needs a shared understanding of the project](/play1/shared-understanding-project.md)
 * The whole team needs to set and understand expectations for initial research
 * The development team needs to understand initial technical requirements and constraints
 * The visual design team needs to understand initial branding requirements and constraints
