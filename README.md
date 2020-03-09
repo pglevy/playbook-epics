@@ -22,7 +22,8 @@ Stories:
 
 ## [Play 3: Make it simple and intuitive](https://playbook.cio.gov/#play3)
 Stories:
-* The whole team could use some inspiration from how others create a human-centered interactive form experience
+* [The whole team could use some inspiration from how others create a human-centered interactive form experience](/play3/inspiration-from-others.md)
+
 ## [Play 4: Build the service using agile and iterative practices](https://playbook.cio.gov/#play4)
 Stories:
 * [The whole team needs a working agreement](/play4/working-agreement.md)
